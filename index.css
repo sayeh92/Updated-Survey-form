@@ -8,6 +8,7 @@ body {
   text-align:center;
   font-weight:bolder;
   text-shadow:0 0 40px green;
+  width:100%;
 }
 
 #survey-form {
